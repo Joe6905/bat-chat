@@ -27,7 +27,7 @@ To install and run this application:
 
 1. **Clone the repository** or download the code files:
    ```bash
-   git clone https://github.com/yourusername/chat-app-batch.git
+   https://github.com/Joe6905/bat-chat.git
 Navigate to the project directory:
 
 bash
